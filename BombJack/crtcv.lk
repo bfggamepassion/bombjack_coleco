@@ -1,0 +1,27 @@
+-mjwx
+-i crtcv.ihx
+-b _CODE = 0x8048
+-b _DATA = 0x7000
+-b_bank1=0xc000
+-b_bank2=0xc000
+-k f:\sdcc3\bin\..\lib\z80
+-l ../comp.lib
+-l ../cvlib.lib
+-l ../getput.lib
+-l z80
+../crtcv.rel
+main.rel
+notes.rel
+musique.rel
+sprites.rel
+chateau_plet.rel
+font_plet.rel
+immeuble.rel
+sphynx.rel
+temple.rel
+Title.rel
+villenuit.rel
+levels.rel
+tunes.rel
+
+-e

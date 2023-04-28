@@ -1,0 +1,8 @@
+A FAIRE :
+---------
+
+- Régler la collision pied pour tenir sur une plateforme de 8 pixels sans tomber à travers --> ENCOURS
+- Allourdir le personnage pour qu'il tombe entre 2 plateformes contigüe --> PAS SUR ...
+- Vérifier le bug du nb d'ennemies généré avant bonus
+- Voir si en arcade, on peut sauter quand on tombe, sinon débugger
+- Allumer une bombe dès le début du niveau. --> ENCOURS
